@@ -1,8 +1,9 @@
-# Collection of helpful links, pictures, data...
+# Collection of helpful links, pictures or data
 
 ## Links
 <details>
 <summary>View links</summary>
+
 ### Website
 * [Streamlit](https://streamlit.io): Build web applications in Python and publish them as web application with streamlit
 
@@ -29,10 +30,12 @@
    6. [Kantar "Information is beautiful"](https://www.informationisbeautifulawards.com/)
    7. [Blockbuilder search](https://blockbuilder.org/search): Click on `Thumbnail image` before you search for any type of graph style
    8. [Observable's Explore page](https://observablehq.com/explore) 
+</details>
 
 ## Pictures
 <details>
 <summary>View pictures</summary>
+
 ### Cheatsheets
 * [Datacamp cheat sheets](https://www.datacamp.com/community/data-science-cheatsheets): cheatsheets for data science
 * [Data story visualization decision tree](/cheatsheets/data-story-visualization-decisiontree/decision-tree.jpg)
@@ -43,3 +46,4 @@
    1. [Git commands](/cheatsheets/git/git-cheatsheet-EN-dark.pdf)
    2. [Workflow version control](/cheatsheets/workflow-of-version-control/workflow-of-version-control.pdf)
    3. [Working with branches](/cheatsheets/working-with-branches/working-with-branches-in-git-cheat-sheet.pdf)
+</details>
