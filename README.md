@@ -4,8 +4,8 @@
 <details>
 <summary>View links</summary>
 
-### Website
-* [Streamlit](https://streamlit.io): Build web applications in Python and publish them as web application with streamlit
+### App / Website design
+* [Streamlit](https://streamlit.io): Build web applications in Python and publish them as web application with streamlit (easy light-weight alternative to Plotly Dash)
 
 ### Programming
 * [OpenML](https://www.openml.org/home): Machine learning datasets for practice
